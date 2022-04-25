@@ -1,0 +1,5 @@
+run:
+	go run .
+
+migrate:
+	
